@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fawad-10
 - 👀 I’m interested in developing via coding.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me  ahmadfawadawan@gmail.com
 
 <!---
